@@ -1,0 +1,4 @@
+<HeaderManager .*?</HeaderManager>
+
+
+click on .matchs newline
